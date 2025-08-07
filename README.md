@@ -21,3 +21,12 @@ Um projeto simples de Leitor de Texto utilizando **JavaScript**, **HTML** e **CS
 1. Clone este repositório:
 ```bash
 git clone https://github.com/LucasViniciusBermudes/javascript-text-reader.git
+
+# 2. Acesse a pasta do projeto
+cd javascript-text-reader
+
+# 3. Abra o arquivo no navegador
+start index.html     # Windows
+open index.html      # macOS
+xdg-open index.html  # Linux
+ usa isso como base
